@@ -4,7 +4,7 @@
 ### By Inthrayuth Mahaphol
 
 ## Description
-This independent project is about my projects that I have created in the "Intro to Programming" at Epicodus.
+This independent project is about my projects that have been created in the "Intro to Programming" at Epicodus.
 
 ## Set Up
 * Set up Git and the Landing Page Project repository in GitHub
@@ -23,13 +23,13 @@ This independent project is about my projects that I have created in the "Intro 
 * [Boring Lecture](http://github.com/inthra/w1wed-boring/blob/master/boring-lecture.html)
 * [Interior Decorator](http://github.com/inthra/w1wed-interior-decorator/blob/master/interior.html)
 * [Blogging](http://github.com/inthra/w1wed-blogging/blob/master/blogging.html)
-* [Floats](http://github.com/inthra/w1wed-floats/blob/master/floats.html)
+* [Floats and Sidebar](http://github.com/inthra/w1wed-floats/blob/master/floats.html)
 * [Animal](http://github.com/inthra/w1wed-animal/blob/master/animal.html)
 * [Media Queries](http://github.com/inthra/w1wed-media/blob/master/media.html)
 * [Hawaii Vacation](http://github.com/inthra/w1thurs-vacation/blob/master/index.html)
 * [Rebuild Wiki](http://github.com/inthra/w1thurs-rebuild-wiki)
 
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).**
 
 Copyright (c) 2016 Inthrayuth M.
