@@ -1,10 +1,17 @@
 .container{
-  padding-top: 3px;
+  padding-top: 5px;
 }
-.small-photo{
-  width: 100px;
+
+.xs-photo{
+  width: 20px;
   height: auto;
 }
+
+.sm-photo{
+  width: 120px;
+  height: auto;
+}
+
 img{
   border-radius: 5px;
 }
