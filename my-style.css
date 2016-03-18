@@ -1,5 +1,5 @@
 .container{
-  padding-top: 5px;
+  padding-top: 7px;
 }
 
 .xs-photo{
@@ -9,6 +9,11 @@
 
 .sm-photo{
   width: 200px;
+  height: auto;
+}
+
+.like-photo{
+  width: 150px;
   height: auto;
 }
 
